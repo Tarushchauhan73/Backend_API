@@ -894,7 +894,8 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-Built as a demonstration of backend development best practices for a college 4th-year level project.
+Tarush Chauhan 
+tarushchauhan19@gmail.com
 
 ---
 
