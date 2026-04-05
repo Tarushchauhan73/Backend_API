@@ -2,6 +2,8 @@
 
 A well-structured backend API for managing financial records with role-based access control, designed as a practical demonstration of backend development principles.
 
+Full endpoint documentation is available in [API_DOCUMENTATION.md](API_DOCUMENTATION.md).
+
 ## 📋 Project Overview
 
 This backend serves a finance dashboard system where users with different roles can manage financial records and view analytics. The system demonstrates:
